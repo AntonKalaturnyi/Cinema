@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Cinema.sln" t="IncludeFlat" />
+      <e p="global.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Solution Items" t="Include" />
+      <e p="src" t="Include">
+        <e p="Test2" t="IncludeRecursive">
+          <e p=".bowerrc" t="Include" />
+          <e p="bower.json" t="Include" />
+          <e p="CinemaCode.xproj" t="IncludeRecursive" />
+        </e>
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Cinema.-617202212.00" t="ExcludeRecursive" />
+  </component>
+</project>
